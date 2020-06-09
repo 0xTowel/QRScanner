@@ -5,4 +5,7 @@ While no one managed to solve it during the CTF, a few teams did get very close.
 
 # Writeups
 
-None yet. Did you write one? Create an issue and I'll include a link to it here.
+ * Team [Hubert Hackin'](https://huberthackin.gitlab.io/): [Part 1](https://huberthackin.gitlab.io/posts/nsec20-qrcode-1-2/), [Part 2](https://huberthackin.gitlab.io/posts/nsec20-qrcode/)
+
+
+Did you write one that's not listed here? Create an issue and I'll include a link to it here.
